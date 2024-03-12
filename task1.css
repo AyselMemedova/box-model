@@ -1,0 +1,25 @@
+
+
+.img{
+    text-align: center;
+    border: 40px solid cornflowerblue;
+    padding-left: 200px;
+    margin-top:  0px;
+    border-width: auto;
+}
+
+.padding{
+    border:40px solid greenyellow ;
+    height: 60%;
+}
+
+.border{
+    border: 40px solid yellow;
+    height: 80%;
+}
+
+.margin{
+
+    border: 40px solid orange;
+    height: 100%;
+}
