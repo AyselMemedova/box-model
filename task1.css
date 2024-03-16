@@ -1,36 +1,37 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
+     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.img img {
-    width: 400px;
+.sekil img {
+    width: 350px;
+    margin-left: 30px;
 }
 
 .margin{
-   
-    margin: auto;
-    background-color: orange;
     width: 550px;
-    height: 380px;
+    height: 400px;
+    margin-left: 500px;
+    margin-top: 150px;
+    background-color: orange;
 }
 .border {
-    margin: auto;
     width: 500px;
+    height: 350px;
+    margin: auto;
     background-color: yellow;
-    height: 340px;
 }
 .padding {
-    margin: auto;
     width: 450px;
-    background-color: greenyellow;
     height: 300px;
+    margin: auto;
+    background-color: greenyellow;
 }
 .content {
     width: 400px;
+    height: 250px;
     margin: auto;
     background-color:cadetblue;
-    width: 400px;
-    height: 260px;
+    
 }
